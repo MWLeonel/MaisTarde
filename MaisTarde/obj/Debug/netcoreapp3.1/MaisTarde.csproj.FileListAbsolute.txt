@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.exe
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.deps.json
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.runtimeconfig.json
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.runtimeconfig.dev.json
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.dll
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\bin\Debug\netcoreapp3.1\MaisTarde.pdb
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.AssemblyInfo.cs
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.dll
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.pdb
+C:\Users\Max\Desktop\MaisTarde\MaisTarde\obj\Debug\netcoreapp3.1\MaisTarde.genruntimeconfig.cache
